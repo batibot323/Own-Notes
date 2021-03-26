@@ -54,3 +54,12 @@ const urgePersonToWorkDestructure = (
     console.log(`${first}, you need to go to ${city} City now.`);
 }
 ```
+
+---
+
+## Workflow
+### Copying Formatted JSON
+```javascript
+// Where 2 is number of spaces per indent
+copy(JSON.stringify(obj, null, 2));
+```
