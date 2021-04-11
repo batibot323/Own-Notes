@@ -8,3 +8,8 @@
 
 - Assumption is that declarations use either `public` or `private`
 - Uses this [SO answer](https://stackoverflow.com/a/7124976/3769526) to not include `{` or `(` in the match.
+
+### Match the whole sentence containing a given word
+
+`word` = lorem
+`(?<=\.\s)[^\.]*?lorem.*?\.`
