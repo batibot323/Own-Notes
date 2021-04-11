@@ -12,4 +12,5 @@
 ### Match the whole sentence containing a given word
 
 `word` = lorem
+
 `(?<=\.\s)[^\.]*?lorem.*?\.`
