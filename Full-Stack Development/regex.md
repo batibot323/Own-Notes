@@ -13,7 +13,7 @@
 
 `word` = lorem
 
-`(?<=\.\s)[^\.]*?lorem.*?\.`
+`(?:^|(?<=\s))[^\.]*lorem.*?\.`
 
 ### Match the whole sentence containing given words in the following order
 Donec venenatis vestibulum quam, nec blandit urna vulputate eget. *Praesent egestas, metus vitae blandit maximus, justo **lorem** maximus sem, eu dapibus mi dui **quis** ligula.* Cras et turpis posuere, vestibulum dui id, euismod velit.
