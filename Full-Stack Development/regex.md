@@ -24,3 +24,6 @@ Donec venenatis vestibulum quam, nec blandit urna vulputate eget. *Praesent eges
 - This still needs work as it will match even if it just sees two instances of **lorem** or **quis**
 
 `(?<=[\s])[^\.]*?(lorem|quis)[^\.]*(lorem|quis).*?\.`
+
+### Remove debugger statements cleanly
+Make sure `Use Regular Expression` in your find+replace is checked. Then, use this regex `\n\s*debugger;` and replace with blank.
