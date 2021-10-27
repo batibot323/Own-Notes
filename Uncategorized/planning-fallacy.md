@@ -16,6 +16,13 @@ I read the paper's conclusion however there isn't really an obvious answer given
 ---
 
 ### Solutions
-The solutions offered can actually be found on the last chapter, Implications for debiasing. To add, he also sent me a more recent paper[^recent-paper] written in 2018, that has discussed more solutions. I find the following approach significant, forming implementation intentions, e.g., *“I intend to write the report in situation X.”*.
+The solutions offered can actually be found on the last chapter, Implications for debiasing. To add, he also sent me a more recent paper[^recent-paper] written in 2018, that has discussed more solutions. I find the following approach significant, forming implementation intentions, e.g., *“I intend to write the report in situation X.”*[^implementation-intentions] Here are the other steps we can use to improve our planning:
+
+1. Base on **actual completion times** of similar projects
+2. **Focus on potential obstacles** as they're usually underestimated
+3. **Decompose** tasks into reasonable segments
+4. Apply **third-person perspective**
+5. **Backward Planning**
 
 [^recent-paper]: [Buehler, R., & Griffin, D. (2018). The planning fallacy. In G. Oettingen, A. T. Sevincer, & P. Gollwitzer (Eds.), The psychology of thinking about the future (pp. 517–538). The Guilford Press.](https://psycnet.apa.org/record/2017-56606-027)
+[^implementation-intentions]: Forming implementation intentions led participants to predict earlier completion times, relative to the goal-intention condition, but had an **even greater impact on actual completion times**, and thereby reduced the degree of optimistic bias in prediction.
