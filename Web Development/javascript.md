@@ -56,6 +56,10 @@ const urgePersonToWorkDestructure = (
 ```
 
 ---
+### Appending an Array to Another
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply#using_apply_to_append_an_array_to_another
+
+---
 
 ## Workflow
 ### Copying Formatted JSON
